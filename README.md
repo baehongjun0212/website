@@ -1,6 +1,6 @@
 # Hong Jun's ReactFolio
 
-## Nice and Clean Responsive Dark Theme Portfolio Website with React!
+## Responsive Dark Theme Portfolio Website with React!
 
 <img width="1266" alt="asffasfsa" src="https://user-images.githubusercontent.com/55692618/98776425-3d479c00-2432-11eb-896e-4aadca776d5a.PNG">
 

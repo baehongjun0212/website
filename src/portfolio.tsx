@@ -2,8 +2,8 @@ import emoji from 'react-easy-emoji';
 
 export const greeting = {
 	username: 'Hong Jun Bae',
-	title: 'Hello I\'m Hong Jun',
-	subTitle: emoji("성실과 열정으로 내일의 가능성을 여는 개발자, 배홍준입니다 :)"),
+	title: 'Hello! I\'m Hong Jun',
+	subTitle: emoji("성실과 열정으로 내일의 가능성을 여는 개발자, 배홍준입니다."),
 	role: "I'm noob student developer.",
 	resumeLink: "Your resume link... google drive or something else",
 	// IMPORTANT
@@ -16,7 +16,7 @@ export const socialMediaLinks = {
 	// if you don't have, change value to blank or false!! DO NOT DELETE!
 	github: 'https://github.com/baehongjun0212',
 	linkedin: 'Your linkedin link',
-	email: '<A href="mailto:sembuat12@gmail.com">메일 전송</a>',
+	email: '<A href="mailto:sembuat12@gmail.com">메일전송</a>',
 	facebook: 'https://www.facebook.com/baehongjun0212',
 	twitter: "Your twitter link",
 	instagram: "https://www.instagram.com/b.hhong/",
@@ -28,11 +28,11 @@ export const skills = {
 	title: emoji("I Can Do ⚡"),
 	subTitle: "　",
 	describeSkills: [
-		emoji("✔ Java 8을 사용한 공지사항 푸시 알림 프로젝트 진행"),
-		emoji("✔ Python 3을 사용한 학생 정보 GUI 프로젝트 진행"),
-		emoji("✔ C & C++을 사용한 얼굴 감지 마스킹 프로젝트 진행"),
-		emoji("✔ R과 Google Maps를 사용한 코로나 확진자 위치 시각화 진행"),
-		emoji("✔ Flutter을 사용한 공지사항 푸시 알림 하이브리드 앱 개발"),
+		emoji("✔  Java 8을 사용한 공지사항 푸시 알림 프로젝트 진행"),
+		emoji("✔  Python 3을 사용한 학생 정보 GUI 프로젝트 진행"),
+		emoji("✔  C & C++을 사용한 얼굴 감지 마스킹 프로젝트 진행"),
+		emoji("✔  R과 Google Maps를 사용한 코로나 확진자 위치 시각화 진행"),
+		emoji("✔  Flutter을 사용한 공지사항 푸시 알림 하이브리드 앱 개발"),
 	],
 	// IMPORTANT
 	// You need to find className for font-awesome icon
@@ -143,7 +143,7 @@ export const blogs = {
 
 export const contactInfo = {
 	title: "Contact To Me! 📞",
-	subTitle: "subtitle for contact",
-	introduce: emoji("your introduce❤"),
+	subTitle: "성실과 열정으로 내일의 가능성을 여는 개발자, 배홍준입니다.",
+	introduce: emoji(""),
 	view: true
 }
