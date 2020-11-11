@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.f77d7a38.chunk.css",
+    "main.js": "/website/static/js/main.c3a5ed7e.chunk.js",
+    "main.js.map": "/website/static/js/main.c3a5ed7e.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.53b56d12.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.53b56d12.js.map",
+    "static/js/2.9a2180c5.chunk.js": "/website/static/js/2.9a2180c5.chunk.js",
+    "static/js/2.9a2180c5.chunk.js.map": "/website/static/js/2.9a2180c5.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.cb719eca00e12ab58db6fa1c0828fc88.js": "/website/precache-manifest.cb719eca00e12ab58db6fa1c0828fc88.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.f77d7a38.chunk.css.map": "/website/static/css/main.f77d7a38.chunk.css.map",
+    "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/website/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/website/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/website/static/media/your photo.1d500b49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53b56d12.js",
+    "static/js/2.9a2180c5.chunk.js",
+    "static/css/main.f77d7a38.chunk.css",
+    "static/js/main.c3a5ed7e.chunk.js"
+  ]
+}
