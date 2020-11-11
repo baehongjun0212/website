@@ -38,12 +38,12 @@ export const skills = {
 	// You need to find className for font-awesome icon
 	// Go to https://fontawesome.com/ and search icon
 	lists: [
-		{fontAwesome: "fab fa-html5", text: "HTML5", proficiency: 80}, 
-		{fontAwesome: "fab fa-css3-alt", text: "CSS3", proficiency: 70},
-		{fontAwesome: "fab fa-js", text: "JS", proficiency: 70},
-		{fontAwesome: "fab fa-sass", text: "Sass", proficiency: 30},
-		{fontAwesome: "fab fa-react", text: "React", proficiency: 60},
-		{fontAwesome: "fab fa-aws", text: "AWS", proficiency: 20},
+		{fontAwesome: "fab fa-java", text: "Java 8", proficiency: 60}, 
+		{fontAwesome: "fab fa-python", text: "Python 3", proficiency: 60},
+		{fontAwesome: "fas fa-copyright", text: "C, C++", proficiency: 50},
+		{fontAwesome: "fab fa-android", text: "Android", proficiency: 40},
+		{fontAwesome: "fab fa-react", text: "React", proficiency: 40},
+		{fontAwesome: "fab fa-r-project", text: "R", proficiency: 60},
 	],
 	view: true
 };
@@ -77,7 +77,7 @@ export const experience = {
 			role: "test",
 		}
 	],
-	view: true
+	view: false
 }
 
 export const openSourceProjects = {
@@ -100,7 +100,7 @@ export const projects = {
 			url: "#"
 		}
 	],
-	view: true
+	view: false
 }
 
 export const achievements = {

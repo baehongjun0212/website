@@ -2,7 +2,8 @@
 
 ## Responsive Dark Theme Portfolio Website with React!
 
-<img width="1266" alt="asffasfsa" src="https://user-images.githubusercontent.com/55692618/98776425-3d479c00-2432-11eb-896e-4aadca776d5a.PNG">
+## Screen Shot
+<img width="1265" alt="완료" src="https://user-images.githubusercontent.com/55692618/98799622-b2c36480-2452-11eb-9129-d6e7d1525de4.PNG">
 
 ## Demo Page
 https://baehongjun0212.github.io/website/
