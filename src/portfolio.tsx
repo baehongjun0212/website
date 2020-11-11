@@ -4,29 +4,25 @@ export const greeting = {
 	username: 'Hong Jun Bae',
 	title: 'Hello! I\'m Hong Jun',
 	subTitle: emoji("성실과 열정으로 내일의 가능성을 여는 개발자, 배홍준입니다."),
-	role: "I'm noob student developer.",
-	resumeLink: "Your resume link... google drive or something else",
-	// IMPORTANT
-	// If you don't want to show this, change view to false. DO NOT DELETE!
+	role: "I'm an endless developer.",
+	resumeLink: "https://baehongjun0212.github.io/website",
 	view: true
 };
 
 export const socialMediaLinks = {
-	// IMPORTANT
-	// if you don't have, change value to blank or false!! DO NOT DELETE!
 	github: 'https://github.com/baehongjun0212',
-	linkedin: 'Your linkedin link',
+	linkedin: 'false',
 	email: '<A href="mailto:sembuat12@gmail.com">메일전송</a>',
 	facebook: 'https://www.facebook.com/baehongjun0212',
-	twitter: "Your twitter link",
+	twitter: 'false',
 	instagram: "https://www.instagram.com/b.hhong/",
-	medium: 'Your medium link',
-	stackoverflow: 'Your stackoverflow link'
+	medium: 'false',
+	stackoverflow: 'false',
 };
 
 export const skills = {
 	title: emoji("I Can Do ⚡"),
-	subTitle: "　",
+	subTitle: "I'm an endless developer.",
 	describeSkills: [
 		emoji("✔  Java 8을 사용한 공지사항 푸시 알림 프로젝트 진행"),
 		emoji("✔  Python 3을 사용한 학생 정보 GUI 프로젝트 진행"),
@@ -34,9 +30,7 @@ export const skills = {
 		emoji("✔  R과 Google Maps를 사용한 코로나 확진자 위치 시각화 진행"),
 		emoji("✔  Flutter을 사용한 공지사항 푸시 알림 하이브리드 앱 개발"),
 	],
-	// IMPORTANT
-	// You need to find className for font-awesome icon
-	// Go to https://fontawesome.com/ and search icon
+	// https://fontawesome.com/ icon
 	lists: [
 		{fontAwesome: "fab fa-java", text: "Java 8", proficiency: 60}, 
 		{fontAwesome: "fab fa-python", text: "Python 3", proficiency: 60},
@@ -52,7 +46,7 @@ export const experience = {
 	title: "Work Experience",
 	lists: [
 		{
-			date: "2018.03~",
+			date: "test",
 			company: "Google",
 			role: "Front-End Developer",
 		},
@@ -91,7 +85,7 @@ export const projects = {
 	lists: [
 		{
 			title: "Project1",
-			desc: "very very very very very very very very very very very very very very long very long description for clamp testing",
+			desc: "description",
 			url: "#"
 		},
 		{
@@ -105,19 +99,19 @@ export const projects = {
 
 export const achievements = {
 	title: emoji("Achievements And Certifications 🏆"),
-	subTitle: "subtitle for achievement",
+	subTitle: "",
 	lists: [
 		{
-			img: require("./assets/sad-icon.png"),
-			alt: "I'm sad..",
-			title: "There is no Achievement...😥",
-			desc: "I'll try harder!"
+			img: require("./assets/sw-movie.jpg"),
+			alt: ":)",
+			title: "2019.12 SW 교육 동영상 공모전 은상",
+			desc: "강원정보문화진흥원 주최"
 		},
 		{
-			img: require("./assets/sad-icon.png"),
-			alt: "I'm sad..",
-			title: "There is no Certification...😥",
-			desc: "I'll try harder!"
+			img: require("./assets/sw-contest.jpg"),
+			alt: ":)",
+			title: "2020.11 SW 콘테스트 개발 부문 동상",
+			desc: "한림대학교 SW중심대학사업단 주최"
 		},
 	],
 	view: true
@@ -128,17 +122,17 @@ export const blogs = {
 	subTitle: "subtitle for posts",
 	lists: [
 		{
-			title: "Your Post1",
+			title: "Post1",
 			desc: "Description",
 			url: "#"
 		},
 		{
-			title: "Your post2",
+			title: "post2",
 			desc: "Description",
 			url: "#"
 		},
 	],
-	view: true
+	view: false
 }
 
 export const contactInfo = {
